@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         insertData()
         fetchData()
+        print("Welcome To Gitub")
         // Do any additional setup after loading the view, typically from a nib.
     }
     
